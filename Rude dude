@@ -1,5 +1,4 @@
 anonymous 
-
 the source- help
 git clone https://github.com/sherlock-project/sherlock.git
 usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT]
